@@ -19,3 +19,7 @@ class TestLogin:
     def test_login5(self):
         print("test_login5")
         assert 0
+
+    def test_login6(self):
+        print("test_login6")
+        assert 0
